@@ -1,1 +1,1 @@
-Got to the Wiki:https://github.com/psipred/SummerProjects/wiki
+Go to the [Wiki](https://github.com/psipred/SummerProjects/wiki)
